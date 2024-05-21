@@ -5,7 +5,7 @@ $url = "https://api.sat.tausi.africa/v1/mpesa/upload_pdf";
 
 // Authorization header
 $headers = array(
-    "Authorization: Bearer TGqrFD45yIPKAHxgSJW8QWAS"
+    "Authorization: Bearer your_token"
 );
 
 // File data
